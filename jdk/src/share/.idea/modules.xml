@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo/applets/applets.iml" filepath="$PROJECT_DIR$/demo/applets/applets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doc/doc.iml" filepath="$PROJECT_DIR$/doc/doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/forkjoin/forkjoin.iml" filepath="$PROJECT_DIR$/sample/forkjoin/forkjoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/java2d/java2d.iml" filepath="$PROJECT_DIR$/demo/java2d/java2d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/jfc/jfc.iml" filepath="$PROJECT_DIR$/demo/jfc/jfc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/jmx/jmx.iml" filepath="$PROJECT_DIR$/sample/jmx/jmx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/jvmti/jvmti.iml" filepath="$PROJECT_DIR$/demo/jvmti/jvmti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/management/management.iml" filepath="$PROJECT_DIR$/demo/management/management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/nio/nio.iml" filepath="$PROJECT_DIR$/sample/nio/nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/nio/nio1.iml" filepath="$PROJECT_DIR$/demo/nio/nio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/scripting/scripting.iml" filepath="$PROJECT_DIR$/demo/scripting/scripting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/scripting/scripting1.iml" filepath="$PROJECT_DIR$/sample/scripting/scripting1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share.iml" filepath="$PROJECT_DIR$/share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/vm/vm.iml" filepath="$PROJECT_DIR$/sample/vm/vm.iml" />
+    </modules>
+  </component>
+</project>
