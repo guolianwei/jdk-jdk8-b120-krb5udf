@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="rt">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/jdk/src/share/out/production/share/sun/security/krb5/rt.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
