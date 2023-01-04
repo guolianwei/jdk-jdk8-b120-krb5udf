@@ -78,6 +78,10 @@ public class Config {
      * Hashtable used to store configuration information.
      */
     private Hashtable<String, Object> stanzaTable = new Hashtable<>();
+
+    /**
+     * 将Config单利修改2为多Config形式和线程的ThreadLocal配合使用
+     */
     private static Map<String, Config> configs = new ConcurrentHashMap<>();
     private static boolean DEBUG = sun.security.krb5.internal.Krb5.DEBUG;
 
